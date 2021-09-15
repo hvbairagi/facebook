@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "facebook-2216e": {
+      "hosting": {
+        "facebook": [
+          "facebook-2216e"
+        ]
+      }
+    }
+  }
+}
